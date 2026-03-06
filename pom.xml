@@ -56,7 +56,7 @@
 		</dependency>-->
 		<dependency>
 			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</atrifactId>
+			<atrifactId>postgresql</atrifactId>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
